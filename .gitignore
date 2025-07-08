@@ -1,0 +1,23 @@
+# EASY68K generated files
+*.L68
+*.S68
+*.BIN
+*.HEX
+*.OUT
+*.SYM
+*.MAP
+*.TMP
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.old
+*.swp
+
+# Logs or temporary files
+*.log
+*.temp
+*.tmp
