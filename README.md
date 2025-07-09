@@ -6,7 +6,7 @@ A Motorola 68000-based 2D game built using EASY68K.
 **Objective:** Protect your pixels from encroaching enemies and heal any damaged areas to achieve victory!
 
 ## How to Run
-1. Open `game.X68` in EASY68K
+1. Open `Nano Invaders.X68` in EASY68K
 2. Press F9 to execute
 3. You're all set!
 
